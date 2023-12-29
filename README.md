@@ -1,2 +1,2 @@
 ```Sentiment Analysis Script```
-<img href="preview">
+<img href="preview.png">
